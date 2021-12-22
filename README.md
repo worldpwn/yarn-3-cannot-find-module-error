@@ -12,3 +12,6 @@ I will do step by step installation of yarn from here  https://yarnpkg.com/getti
 
 # Step 4 Run hello world
 ![step 2](./images/step4.png)
+
+# Step 5 Use lodash - ERROR
+![step 2](./images/step5.png)

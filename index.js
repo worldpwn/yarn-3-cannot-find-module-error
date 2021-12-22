@@ -1,2 +1,3 @@
+var multiply = require('lodash/multiply');
 
-console.log("hello world")
+console.log(multiply(3, 5))
