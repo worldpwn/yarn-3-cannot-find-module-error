@@ -9,3 +9,6 @@ I will do step by step installation of yarn from here  https://yarnpkg.com/getti
 
 # Step 3 Install Lodash
 ![step 2](./images/step3.png)
+
+# Step 4 Run hello world
+![step 2](./images/step4.png)
