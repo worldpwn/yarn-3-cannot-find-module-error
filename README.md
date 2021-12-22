@@ -6,3 +6,6 @@ I will do step by step installation of yarn from here  https://yarnpkg.com/getti
 # Step 2 Initializing your project
 ![step 2](./images/step2.png)
 ![step 2](./images/step2_init.png)
+
+# Step 3 Install Lodash
+![step 2](./images/step3.png)
